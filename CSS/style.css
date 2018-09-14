@@ -1,0 +1,126 @@
+/* Global */
+* {
+    /* #2 #font #faces */
+    font-family: 'Arial', sans-serif;
+   
+}
+body {
+    /* #2 #colorful #background */
+    background-color: #F5F5F5;
+}
+
+button {
+    /* #2 #colourful #plusfive */
+    background-color: #CDDC39;
+    color: black;
+    /* #2 #font capital #letters */
+    
+}
+/* App Bar */
+.appbar {
+    background-color: #3F51B5;
+    color: white;
+}
+.w3wlocation {
+    text-transform: uppercase;
+}
+.appbarw3wlocation {
+    color: white;
+    text-transform: uppercase;
+    
+}
+/* Channels List */
+.channelhighlighted {
+    color: #3F51B5;
+    border-left: solid #3F51B5 4px;
+    font-size: 16px;
+    height: 32px;
+    padding: 16px;
+    border-top: solid #F5F5F5;
+}
+.channelglobal {
+    padding: 16px;
+    font-size: 16px;
+    height: 32px;
+    border-top: solid #F5F5F5;
+}
+/* Tab Bar */
+.tabbarbutton {
+    background-color: white;
+    border: 0px ;
+    font-size: 13px;
+    width: 33%;
+    height: 72px;
+    padding: 16px;
+    text-transform: uppercase;
+}
+.highlighted {
+    background-color: white;
+    color: #3F51B5;
+    border-bottom: solid #3F51B5 4px;
+    font-size: 13px;
+    width: 33%;
+    height: 72px;
+    padding: 16px;
+    text-transform: uppercase;
+}
+.tabbar {
+    background-color: #3F51B5;
+    color: white;
+    height: 56px;
+    padding-bottom: 8px;
+}
+
+
+/* Messages */
+.messagemetadata { 
+    font-size: medium;
+    padding: 0px;
+    margin: 0px;
+}
+.message {
+    width: 80%;
+    margin-bottom: 8px;
+    margin-left: 2.5%;
+}
+.messagetext {
+    background-color: white;
+    padding:16px;  
+    margin-left: 20,5%;
+}
+.messagebutton {
+    background-color: #CDDC39;
+    text-transform: uppercase;
+}
+.own {
+    margin-bottom: 8px;
+    margin-left: 17.5%;
+}
+
+
+
+
+em {
+    /* #2 #font #remaining overrides the default italic appearance of em elements*/
+    font-size: larger;
+    font-style: normal;
+}
+
+a {
+    color: #3F51B5
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
